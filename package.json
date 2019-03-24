@@ -9,6 +9,7 @@
   "author": "Tom Nordal",
   "license": "ISC",
   "dependencies": {
+    "csv-write-stream": "^2.0.0",
     "speedtest-net": "^1.5.1"
   }
 }
